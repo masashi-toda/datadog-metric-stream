@@ -1,0 +1,8 @@
+# only local files
+.env.local
+
+# terraform ignore list
+.terraform/
+.terraform*
+terraform.tfvars
+terraform.tfstate*
